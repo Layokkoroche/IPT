@@ -3,10 +3,12 @@
 Глухов Сергей Константинович
 ЭФБО-07-26
 
+### Задача:
+1. Написать задачу с использованием разных видов циклов
+
 ### Структура:
-- 
 - task1_01_for_full.cpp          -- for базовый вариант
 - task1_02_for_empty_break.cpp   -- for с окончанием через break
-- task1_03_for_empty_body.cpp      -- for c пустым телом цикла
+- task1_03_for_empty_body.cpp    -- for c пустым телом цикла
 - task1_04_while.cpp             -- while
 - task1_05_do_while.cpp          -- do-while
